@@ -1,4 +1,6 @@
-.draftedPlayer {
-    color: #00FF00;
-    background-color: #00FF;
+.pickedPlayer {
+    font-family: 'Helvetica', Sans-serif;
+    color: #16c016;
+    border-radius: 25px;
+    border: medium solid #00FF;
 }
